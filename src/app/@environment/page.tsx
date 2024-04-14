@@ -8,7 +8,7 @@ import capacity from '@/assets/capacity.png';
 const Environment = () => {
   return (
     <div className='mt-20'>
-      <h1 className="text-[32px] pt-4">Сургалтын орчин</h1>
+      <h1 className="text-[32px] pt-4 font-semibold">Сургалтын орчин</h1>
       <Container className="mt-4">
         <h6>iMac 2023</h6>
         <Image src={imac} alt="imac" width={470} height={500} />
